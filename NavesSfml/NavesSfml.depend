@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1499707561 source:/root/Documentos/Nave/NavesSfml/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Nave.h"
+	<list>
+	"balas.h"
+	"Enemigos.h"
+	"Marcianos.h"
+
+1499699092 /root/Documentos/Nave/NavesSfml/Nave.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1499699552 source:/root/Documentos/Nave/NavesSfml/Nave.cpp
+	"Nave.h"
+
+1499630248 source:/root/Documentos/Nave/NavesSfml/balas.cpp
+	"balas.h"
+
+1499696704 /root/Documentos/Nave/NavesSfml/balas.h
+	<SFML/Graphics.hpp>
+
+1499540325 source:/root/Documentos/Nave/NavesSfml/Enemigos.cpp
+	"Enemigos.h"
+
+1499540200 /root/Documentos/Nave/NavesSfml/Enemigos.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1499560186 source:/root/Documentos/Nave/NavesSfml/Marcianos.cpp
+	"Marcianos.h"
+
+1499696704 /root/Documentos/Nave/NavesSfml/Marcianos.h
+	<SFML/Graphics.hpp>
+
+1499630248 source:/home/daniel/Documentos/NavesSfml/balas.cpp
+	"balas.h"
+
+1499696704 /home/daniel/Documentos/NavesSfml/balas.h
+	<SFML/Graphics.hpp>
+
+1499540325 source:/home/daniel/Documentos/NavesSfml/Enemigos.cpp
+	"Enemigos.h"
+
+1499540200 /home/daniel/Documentos/NavesSfml/Enemigos.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1500165103 source:/home/daniel/Documentos/NavesSfml/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"lectura.h"
+	"Nave.h"
+	<list>
+	"balas.h"
+	"Enemigos.h"
+	"Marcianos.h"
+
+1499968305 /home/daniel/Documentos/NavesSfml/Nave.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<sstream>
+
+1499873829 /home/daniel/Documentos/NavesSfml/Marcianos.h
+	<SFML/Graphics.hpp>
+
+1499876341 source:/home/daniel/Documentos/NavesSfml/Marcianos.cpp
+	"Marcianos.h"
+
+1499815229 source:/home/daniel/Documentos/NavesSfml/Nave.cpp
+	"Nave.h"
+
+1499964057 source:/home/daniel/Documentos/NavesSfml/Balas_Enemigos.cpp
+	"Balas_Enemigos.h"
+
+1499964350 /home/daniel/Documentos/NavesSfml/Balas_Enemigos.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1500165165 /home/daniel/Documentos/NavesSfml/lectura.h
+	<iostream>
+	<fstream>
+	<string>
+
+1500012235 source:/home/pi/NavesSfml/balas.cpp
+	"balas.h"
+
+1500012236 /home/pi/NavesSfml/balas.h
+	<SFML/Graphics.hpp>
+
+1500012235 source:/home/pi/NavesSfml/Balas_Enemigos.cpp
+	"Balas_Enemigos.h"
+
+1500012236 /home/pi/NavesSfml/Balas_Enemigos.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1500012235 source:/home/pi/NavesSfml/Enemigos.cpp
+	"Enemigos.h"
+
+1500012235 /home/pi/NavesSfml/Enemigos.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1500022229 source:/home/pi/NavesSfml/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<fstream>
+	<string>
+	"Nave.h"
+	<list>
+	"balas.h"
+	"Enemigos.h"
+	"Marcianos.h"
+
+1500013017 /home/pi/NavesSfml/lectura.h
+	<iostream>
+	<fstream>
+	<string>
+
+1500018993 /home/pi/NavesSfml/Nave.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<sstream>
+
+1500012236 /home/pi/NavesSfml/Marcianos.h
+	<SFML/Graphics.hpp>
+
+1500012235 source:/home/pi/NavesSfml/Marcianos.cpp
+	"Marcianos.h"
+
+1500019531 source:/home/pi/NavesSfml/Nave.cpp
+	"Nave.h"
+
